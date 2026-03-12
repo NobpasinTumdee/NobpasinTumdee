@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My Web Portfolio: https://nobpasintumdee.github.io/My Portfolio/</p>
+<p align="center">My Web Portfolio: https://nobpasintumdee.github.io/MyPortfolio/</p>
 
 ###
 
